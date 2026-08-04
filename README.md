@@ -28,7 +28,7 @@ Hello! I'm *Muhammad Raya*, a 17-year-old programmer who is just starting their 
 
 | No | Project | Description |
 |----|---------|-------------|
-| 1 | 🔭 **Biography Website** | My personal life story in a website |
+| 1 | 🕵️ **Biography Website** | My personal life story in a website |
 | 2 | 🧮 **Calculator App** | Basic JavaScript practice project |
 | 3 | 💰 **Financial Manager** | Manage or track expenses and savings |
 
@@ -66,14 +66,11 @@ Hello! I'm *Muhammad Raya*, a 17-year-old programmer who is just starting their 
 
 ## 💡 Fun Fact
 
-> "I started coding at 16, and I believe *I believe that getting a head start plays a crucial role, as it allows for gaining insights earlier!*"  
+> "I started coding at 16, and **I believe that getting a head start plays a crucial role, as it allows for gaining insights earlier!**"  
 > And yes, I can fight too 💪🥋
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhmmdrayatech-ally&show_icons=true&theme=radical" />
-</p>
 
 <p align="center">
   <i>“Code, Fight, Grow – Every single day!”</i> 🚀
